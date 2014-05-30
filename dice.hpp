@@ -30,5 +30,14 @@ int Die::roll(int times)
   return out;
 }
 
+Die d2(2);
+Die d3(3);
+Die d4(4);
+Die d6(6);
+Die d8(8);
+Die d10(10);
+Die d100(100);
+Die d20(20);
+
 
 #endif
